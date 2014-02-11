@@ -1,3 +1,7 @@
+/* Learning simple interaction
+http://processing.flosscience.com/processing-for-android/macul-2012/simple-interaction
+*/
+
 int xPos = 200;
 int xDir = 1;
 
